@@ -28,10 +28,14 @@ Follow the two prompts:
 
 ![follow inquirer prompts](/images/followInquirerPrompts.png)
 
-After placing the order, the application should check to see if the mock store has enough of the product to meet the request. If not, the app logs 'Sorry, not enough items in stock' and prevents the order from going through:
-
-![insufficient quantity](/images/insufficientQuantity.png)
-
-If enough of the product is in stock, the customer's order is fulfilled and the customer's total cost displays:
+After placing the order, the application should check to see if the mock store has enough of the product to meet the request. If enough of the product is in stock, the customer's order is fulfilled and the customer's total cost displays:
 
 ![successful purchase](/images/successfulPurchase.png)
+
+Also, the product infomation updates:
+
+![updated product info](/images/updatedProductInfo.png)
+
+If not, the app logs 'Sorry, not enough items in stock' and prevents the order from going through:
+
+![insufficient quantity](/images/insufficientQuantity.png)
