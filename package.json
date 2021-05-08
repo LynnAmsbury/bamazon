@@ -11,7 +11,7 @@
   "dependencies": {
     "dotenv": "^7.0.0",
     "inquirer": "^6.2.2",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "mysql": "^2.16.0"
   }
 }
